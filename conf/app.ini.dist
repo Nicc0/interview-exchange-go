@@ -1,0 +1,11 @@
+[server]
+#debug or release
+RunMode = release
+HttpPort = 8000
+Timeout = 60
+
+[openexchangeapi]
+Url = https://openexchangerates.org/api/
+Key =
+BaseCurrency = USD
+Timeout = 10
